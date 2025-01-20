@@ -1,4 +1,4 @@
-# MNIST Digit Classification with TensorFlow
+# MNIST Digit Classification with TensorFlow and python
 
 This project implements a Convolutional Neural Network (CNN) for classifying handwritten digits using the MNIST dataset.
 
