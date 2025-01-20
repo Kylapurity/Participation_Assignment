@@ -36,7 +36,7 @@ test_loss, test_acc = model.evaluate(x_test, y_test)
 ## Team Members
 - Bonyu Miracle: https://github.com/glenmiracle18
 - Purity Kihiu: http://github.com/
-- Peter Johnson: https://github.com/
+- Peter Johnson: https://github.com/maxprodigy
 
 ## License
 MIT License
