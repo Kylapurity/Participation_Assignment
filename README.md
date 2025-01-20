@@ -33,6 +33,16 @@ test_loss, test_acc = model.evaluate(x_test, y_test)
 - Sample predictions on test data
 - Performance evaluation
 
+## 📂 Participation Proof
+Below are screenshots showing proof of participation in the project:
+
+![Participation Proof 1](https://github.com/Kylapurity/Participation_Assignment/blob/main/Screenshot%202025-01-20%20195544.png)
+![Participation Proof 2](https://github.com/Kylapurity/Participation_Assignment/blob/main/Screenshot%202025-01-20%20195559.png)
+![Participation Proof 3](https://github.com/Kylapurity/Participation_Assignment/blob/main/Screenshot%202025-01-20%20195618.png)
+![Participation Proof 4](https://github.com/Kylapurity/Participation_Assignment/blob/main/Screenshot%202025-01-20%20195633.png)
+![Participation Proof 5](https://github.com/Kylapurity/Participation_Assignment/blob/main/Screenshot%202025-01-20%20195650.png)
+
+
 ## Team Members
 - Bonyu Miracle: https://github.com/glenmiracle18
 - Purity Kihiu: http://github.com/Kylapurity
