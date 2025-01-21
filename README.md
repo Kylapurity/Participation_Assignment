@@ -22,7 +22,7 @@ This project implements a Convolutional Neural Network (CNN) for classifying han
 ## Usage
 ```python
 # Train the model
-model.fit(x_train, y_train, epochs=5, validation_data=(x_test, y_test))
+model.fit(x_train, y_train, epochs=10, validation_data=(x_test, y_test))
 
 # Evaluate
 test_loss, test_acc = model.evaluate(x_test, y_test)
